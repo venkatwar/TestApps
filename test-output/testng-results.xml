@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31773" started-at="2022-07-18T03:06:36Z" finished-at="2022-07-18T03:07:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31773" started-at="2022-07-18T03:06:36Z" finished-at="2022-07-18T03:07:08Z">
+      <class name="com.moduleone.LoginPage">
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.moduleone.LoginPage@6500df86]" name="beforemethod" is-config="true" duration-ms="10522" started-at="2022-07-18T08:36:37Z" finished-at="2022-07-18T08:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="launchBrowser(java.lang.String, java.lang.String)[pri:0, instance:com.moduleone.LoginPage@6500df86]" name="launchBrowser" duration-ms="924" started-at="2022-07-18T08:36:48Z" data-provider="getInputData" finished-at="2022-07-18T08:36:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.moduleone.LoginPage@6500df86]" name="afterMethod" is-config="true" duration-ms="256" started-at="2022-07-18T08:36:49Z" finished-at="2022-07-18T08:36:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.moduleone.LoginPage@6500df86]" name="beforemethod" is-config="true" duration-ms="5298" started-at="2022-07-18T08:36:49Z" finished-at="2022-07-18T08:36:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="launchBrowser(java.lang.String, java.lang.String)[pri:0, instance:com.moduleone.LoginPage@6500df86]" name="launchBrowser" duration-ms="809" started-at="2022-07-18T08:36:54Z" data-provider="getInputData" finished-at="2022-07-18T08:36:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.moduleone.LoginPage@6500df86]" name="afterMethod" is-config="true" duration-ms="268" started-at="2022-07-18T08:36:55Z" finished-at="2022-07-18T08:36:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.moduleone.LoginPage@6500df86]" name="beforemethod" is-config="true" duration-ms="5513" started-at="2022-07-18T08:36:55Z" finished-at="2022-07-18T08:37:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="launchBrowser(java.lang.String, java.lang.String)[pri:0, instance:com.moduleone.LoginPage@6500df86]" name="launchBrowser" duration-ms="783" started-at="2022-07-18T08:37:01Z" data-provider="getInputData" finished-at="2022-07-18T08:37:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.moduleone.LoginPage@6500df86]" name="afterMethod" is-config="true" duration-ms="223" started-at="2022-07-18T08:37:02Z" finished-at="2022-07-18T08:37:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.moduleone.LoginPage@6500df86]" name="beforemethod" is-config="true" duration-ms="4881" started-at="2022-07-18T08:37:02Z" finished-at="2022-07-18T08:37:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="launchBrowser(java.lang.String, java.lang.String)[pri:0, instance:com.moduleone.LoginPage@6500df86]" name="launchBrowser" duration-ms="779" started-at="2022-07-18T08:37:07Z" data-provider="getInputData" finished-at="2022-07-18T08:37:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.moduleone.LoginPage@6500df86]" name="afterMethod" is-config="true" duration-ms="226" started-at="2022-07-18T08:37:08Z" finished-at="2022-07-18T08:37:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.moduleone.LoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
